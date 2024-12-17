@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-markdown-renderer",
+        "License": "MIT License",
+        "License File": "https://github.com/mientjan/react-native-markdown-renderer/blob/master/LICENSE",
+        "Version Number": "3.2.8",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/mientjan/react-native-markdown-renderer",
+        "Description": "markdown renderer library for react-native"
+    }
+]
